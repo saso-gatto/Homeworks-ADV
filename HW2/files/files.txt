@@ -1,0 +1,13 @@
+berlin52.tsp
+ burma14.tsp
+ ch150.tsp
+ d493.tsp
+ dsj1000.tsp
+ eil51.tsp
+ gr202.tsp
+ gr229.tsp
+ kroA100.tsp
+ kroD100.tsp
+ pcb442.tsp
+ ulysses16.tsp
+ ulysses22.tsp
